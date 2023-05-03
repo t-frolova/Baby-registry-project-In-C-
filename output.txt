@@ -1,0 +1,4 @@
+
+Here is a short summary of your shopping basket:
+The average price for all your 15 items is : $ 5.51
+Total price for all your items is: $82.67
