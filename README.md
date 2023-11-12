@@ -1,4 +1,4 @@
-# Tatiana_frolova_Cplusplus_baby_registry_project
+# Baby_registry_project in C++
 Baby Registry Project
 Designed by C++ language
 Baby Registry List
